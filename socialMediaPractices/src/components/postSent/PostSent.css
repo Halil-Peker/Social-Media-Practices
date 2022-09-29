@@ -1,0 +1,13 @@
+
+.Cardd {
+    text-align: center;
+    background-color: rgb(198, 228, 240);
+    position: relative;
+    margin: auto;
+}
+
+.signn{background-color: rgb(0, 88, 108);
+    padding-top: 5px;  
+    padding-bottom: 5px;    
+    height: 80px;
+}
