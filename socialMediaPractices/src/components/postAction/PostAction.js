@@ -20,7 +20,7 @@ function PostAction() {
   }, []);
 
   return <div>
-    <div>like: {users?.likeCount}</div>
+    <div>likee: {users?.likeCount}</div>
     <div>dislike: {users?.dislikeCount}</div>
   </div>;
 }

@@ -45,9 +45,9 @@ function SingUp() {
   return (
     <div>
 
-        {/* {user.map((userr, id)=>(
+        {user.map((userr, id)=>(
         <div key={id}>{userr.name}</div>
-        ))}  */}
+        ))} 
 
       <Card className="Cardd" sx={{ maxWidth: 345 }}>
         <h1>Login</h1>

@@ -27,7 +27,7 @@ function Likedislike() {
   };
 
   useEffect(() => {
-    getPostById(1);
+    getPostById(2);
     console.log("first: " + JSON.stringify(user));
   },[]);
 
